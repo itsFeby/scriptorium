@@ -1,22 +1,32 @@
 # Scriptorium
 
-*A collection of concise, purposeful code fragments — written, tested, and archived with care.*
+*A collection of fragments, formulas, and functions.*
+
+**Scriptorium** is a curated collection of small but purposeful code snippets, written across multiple programming languages, focused on scientific computing, numerical methods, and mathematical problem-solving. Each file is a quiet corner of thought—structured, tested, and documented (at least when the author’s not too lazy).
+
+Currently includes scripts in:
+- [Julia](https://julialang.org/)
+- [Python](https://www.python.org/)
+- [GNU Octave](https://www.gnu.org/software/octave/)
+
+This repository grows over time—each addition a new leaf in a quiet manuscript of code.
 
 ---
 
-## 📖 About
+More languages and tools will be added as the work expands.
 
-**Scriptorium** is a curated repository of small code snippets and scripts — ranging from numerical methods in Python to linear algebra solvers in GNU Octave. Each piece is designed to be standalone, minimal, and focused on a specific task or method.
+---
 
-This is not a playground of throwaway code. It is a personal archive — like the scriptoriums of old, preserving knowledge, one function at a time.
+## ✦ Philosophy
 
-## 🧠 Topics Covered
+Every file here is a fragment—written to capture a method, test a theory, or simply document an insight.  
+This is not a framework. Not a package. It’s a living notebook.  
+*Less like a library.*
 
-- Numerical methods (e.g. Bisection, Newton-Raphson, Euler)
-- Linear algebra tools (e.g. LU decomposition, Gauss-Seidel)
-- Basic data analysis / plotting
-- Matrix operations in Octave & Python, and more.
-- Miscellaneous math-related experiments
+---
 
-## 🛠 Structure
+## ✦ Contribution
 
+This is a personal repository, but constructive feedback, pull requests, or discussions are always welcome.
+
+---
