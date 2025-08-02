@@ -1,0 +1,33 @@
+# === Compiler-generated files ===
+*.o
+*.obj
+*.out
+*.exe
+*.a
+*.so
+*.dll
+main
+octave-workspace
+
+
+# === Editor ===
+.vscode/
+.idea/
+*.code-workspace
+
+# === OS-specific ===
+.DS_Store
+Thumbs.db
+
+# === Logs & temp ===
+*.log
+*.tmp
+
+# === Backup files ===
+*~
+*.bak
+*.swp
+
+# === Test outputs ===
+*.test
+*.result
