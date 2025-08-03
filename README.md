@@ -11,6 +11,9 @@ Currently includes scripts in:
 
 This repository grows over time—each addition a new leaf in a quiet manuscript of code.
 
+## Note:
+Some of the code I took from other sources, some I wrote myself. This repository is just a place to store my learnings so I can use them again in the future.
+
 ---
 
 More languages and tools will be added as the work expands.
